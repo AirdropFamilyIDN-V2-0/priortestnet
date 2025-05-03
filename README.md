@@ -45,6 +45,9 @@ python wallet.py
 ```
 python sharefaucet.py
 ```
+```
+python faucet.py
+```
 ini otomatis run 24/7
 Pastikan privatekey utama yg ada base sepolia ada d file utapapkkey.txt jika sudah 
 
