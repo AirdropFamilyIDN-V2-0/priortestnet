@@ -29,7 +29,7 @@ pip install web3==6.20.1
 ## Downloads Script ! 
 
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/priortestnet.git
 ```
 ```
 cd priortestnet
