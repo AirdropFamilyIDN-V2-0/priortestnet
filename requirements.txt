@@ -1,0 +1,7 @@
+web3
+eth-account
+mnemonic
+requests
+colorama
+eth-abi
+hexbytes
